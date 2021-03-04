@@ -5,7 +5,7 @@ A Minecraft datapack that has some tools that make making parkour maps easier.
 **How to install and use**
 
 Installing the datapack:
-Step 1: Download the newest version of the datapack here: https://github.com/Flyinq/parkour-tools/releases/tag/1.0
+Step 1: Download the newest version of the datapack here: https://github.com/Flyinq/parkour-tools/releases/
 
 Step 2: Put it in: .minecraft/saves/<your world>/datapacks
 
